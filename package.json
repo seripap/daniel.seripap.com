@@ -1,0 +1,23 @@
+{
+  "name": "daniel.seripap.com",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.2.3"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "hack": "^0.7.5",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-markdown": "^2.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/react-scripts/config/eslint.js"
+  }
+}
