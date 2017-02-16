@@ -19,61 +19,7 @@ class App extends Component {
             <div className="cell -10of12">
               <h1>daniel seripap</h1>
               <h2>from Brooklyn.</h2>
-              <p>i architect, build and scale microservices efficently.</p>
-              <h3>seo keywords</h3>
-              <p>
-            {/* i should probably make this a component. */}
-                <ul>
-                  <li>javascript
-                    <ul>
-                      <li>nodejs</li>
-                      <li>react</li>
-                      <li>angular</li>
-                      <li>nodejs</li>
-                      <li>jquery</li>
-                    </ul>
-                  </li>
-                  <li>css
-                    <ul>
-                      <li>postcss</li>
-                      <li>scss</li>
-                      <li>sass</li>
-                      <li>less</li>
-                    </ul>
-                  </li>
-                  <li>php
-                    <ul>
-                      <li>laravel</li>
-                      <li>code igniter</li>
-                    </ul>
-                  </li>
-                  <li>amazon web services
-                    <ul>
-                      <li>elb</li>
-                      <li>s3</li>
-                      <li>ec2</li>
-                      <li>ecr</li>
-                      <li>rds</li>
-                      <li>r53</li>
-                    </ul>
-                  </li>
-                  <li>cms
-                    <ul>
-                      <li>wordpress</li>
-                      <li>expression engine</li>
-                      <li>contentful</li>
-                      <li>ghost</li>
-                    </ul>
-                  </li>
-                  <li>docker</li>
-                  <li>html</li>
-                  <li>python</li>
-                  <li>git</li>
-                  <li>continous integration</li>
-                  <li>devops</li>
-                </ul>
-            {/* yeah this probably should have been a component */}
-              </p>
+              <p>person who writes code.</p>
             </div>
         </div>
         <footer>
